@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hikkihiki/heroku/issues"
   },
-  "homepage": "https://github.com/Hikkihiki/heroku#readme"
+  "homepage": "https://github.com/Hikkihiki/heroku#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
